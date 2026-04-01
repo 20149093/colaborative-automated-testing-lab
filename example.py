@@ -10,6 +10,7 @@ def subtract(a, b):
     # It adds instead of subtracting.
     return a - b
 
+
 # Step 5: You will uncomment the lines below later in the activity
 def test_subtract():
     assert subtract(2, 3) == -1
