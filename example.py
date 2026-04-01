@@ -8,7 +8,7 @@ def test_add():
 def subtract(a, b):
     # This is intentionally broken for the exercise!
     # It adds instead of subtracting.
-    return a + b
+    return a - b
 
 # Step 5: You will uncomment the lines below later in the activity
 def test_subtract():
